@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://search.brave.com/images?q=banner+wallpaper++warhammer+40k&source=images"
+  <img src="https://es.wallpapers.com/fondos-de-pantalla/laiconica-batalla-entre-los-angeles-sangrientos-y-los-demonios-del-caos-xbu65gf5eftk01pz.html"
        alt="Warhammer 40K grimdark banner"
        width="100%" />
 </p>
@@ -22,6 +22,7 @@
   </a>
  
 </p>
+
 ```bash
 $ whoami
 Pablo — Cybersecurity Student & Developer
@@ -40,6 +41,7 @@ $ motto
 "Learn. Build. Break. Secure."
 ```
 
+```txt
 <h2>🟠 // CURRENT MISSIONS</h2>
 
 - [ ] Build my first cybersecurity AI agent
