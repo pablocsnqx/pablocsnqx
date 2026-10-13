@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="./assets/warhammer-banner.jpg"
+  <img src="https://search.brave.com/images?q=banner+wallpaper++warhammer+40k&source=images"
        alt="Warhammer 40K grimdark banner"
        width="100%" />
 </p>
