@@ -8,7 +8,9 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a0d,50:00ff9f,100:ff9f1c&height=120&section=header&text=HACK%20THE%20PLANET&fontSize=30&fontColor=ffffff&fontAlignY=45" width="100%" />
+  <img src="./assets/warhammer-banner.jpg"
+       alt="Warhammer 40K grimdark banner"
+       width="100%" />
 </p>
 
 <p align="center">
