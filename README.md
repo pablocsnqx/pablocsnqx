@@ -8,9 +8,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/pablocsnqx/pablocsnqx/blob/main/4858500.jpg"
-       alt="Warhammer 40K grimdark banner"
-       width="100%" />
+  <img src="https://github.com/pablocsnqx/pablocsnqx/blob/main/4858500.jpg" alt="Warhammer 40K grimdark banner" width="85%" />
 </p>
 
 <p align="center">
@@ -34,8 +32,3 @@ $ interests
 ```
 
 
-```
-
-<p align="center">
-  <samp> > Think offensively. Build intelligently. Secure responsibly. _ </samp>
-</p>
