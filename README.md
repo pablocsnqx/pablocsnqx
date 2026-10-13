@@ -14,9 +14,9 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/Pablocsnqx">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=00ff9f" />
-  </a>
+ <a href="https://x.com/Pablocsnqx">
+  <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=00ff9f" alt="X" />
+</a>
   <a href="https://proceso">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox&logoColor=ffbf00" />
   </a>
