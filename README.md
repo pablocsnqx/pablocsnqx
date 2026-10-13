@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+```
+whoami
+Pablo - Student & Developer
+
+```
+
 <!--
 **pablocsnqx/pablocsnqx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
